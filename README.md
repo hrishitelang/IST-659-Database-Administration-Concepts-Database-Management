@@ -2,13 +2,13 @@
 This contains the lab assigments of IST 659 Database Administration Concepts Database Management at Syracuse University under the tutelage of Prof. Mike Fudge and Prof. Jillian Lando
 
 # Key Learnings
-•	Describe fundamental data and database concepts including various storage models.
-•	Explain and use the database development lifecycle and data models.
-•	Analyze business problems and design and implement appropriate data-oriented solutions using the relational data storage model.
-•	Solve problems by constructing database objects and queries using the SQL language.
-•	Identify performance and data integrity improvements of existing database designs and implementations.
-•	Evaluate and select approaches for data migrations, temporal data, and data normalization.
-•	Critique the effectiveness of DBMS in computer information systems.
+1.	Describe fundamental data and database concepts including various storage models.
+2.	Explain and use the database development lifecycle and data models.
+3.	Analyze business problems and design and implement appropriate data-oriented solutions using the relational data storage model.
+4.	Solve problems by constructing database objects and queries using the SQL language.
+5.	Identify performance and data integrity improvements of existing database designs and implementations.
+6.	Evaluate and select approaches for data migrations, temporal data, and data normalization.
+7.	Critique the effectiveness of DBMS in computer information systems.
 
 # Technologies and Concepts
 Technologies: Docker, Azure Data Studio
