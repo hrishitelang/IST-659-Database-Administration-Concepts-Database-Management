@@ -1,4 +1,4 @@
-# IST 659: Database Administration Concepts Database Management
+# IST 659: Database Administration Concepts & Database Management
 This contains the lab assigments of IST 659 Database Administration Concepts Database Management at Syracuse University under the tutelage of Prof. Mike Fudge and Prof. Jillian Lando
 
 # Key Learnings
